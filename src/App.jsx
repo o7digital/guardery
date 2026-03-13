@@ -1,6 +1,5 @@
-import GuarderyMockup from './GuarderyMockup';
+import GuarderyLandingPage from './GuarderyLandingPage';
 
 export default function App() {
-  return <GuarderyMockup />;
+  return <GuarderyLandingPage />;
 }
-
