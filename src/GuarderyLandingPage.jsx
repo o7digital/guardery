@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 
-const DEFAULT_LANG = 'fr';
+const DEFAULT_LANG = 'es';
 const LANGS = /** @type {const} */ (['fr', 'es', 'en']);
 
 const COPY = {
